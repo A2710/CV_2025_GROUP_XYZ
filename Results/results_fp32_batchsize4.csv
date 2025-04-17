@@ -1,0 +1,2 @@
+Total_Queries,Total_Time_sec,Total_Inference_Time_sec,Avg_Inference_Time_sec,Avg_QPS,Avg_CPU_Usage_%,Avg_Memory_Usage_%,Avg_GPU_Usage_%,Peak_CPU_Usage_%,Peak_Memory_Usage_%,Peak_GPU_Usage_%,Error_Count,Recall@1,Recall@5,Recall@10,Mean_Average_Precision_mAP,Timestamp
+1000,6.0283,0.1127,0.0005,165.88,4.70,22.40,0.00,41.20,22.40,0.00,1000,0.0000,0.0000,0.0000,0.0000,11:36:45

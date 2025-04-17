@@ -1,0 +1,12 @@
+Metric,INT8,FP16,FP32
+Total_Queries,1000,1000,1000
+Total_Time_sec,95.6223 s,94.2917 s,106.7872 s
+Total_Inference_Time_sec,3.5478 s,3.0802 s,12.5020 s
+Avg_Inference_Time_sec,0.0035 s,0.0031 s,0.0125 s
+Avg_QPS,10.46 qps,10.61 qps,9.36 qps
+Avg_CPU_Usage_%,4.60%,10.30%,9.84%
+Avg_Memory_Usage_%,22.40%,23.10%,23.70%
+Avg_GPU_Usage_%,31.83%,32.45%,32.31%
+Peak_CPU_Usage_%,47.40%,50.00%,50.00%
+Peak_Memory_Usage_%,22.10%,22.20%,23.40%
+Peak_GPU_Usage_%,37.51%,39.65%,38.64%

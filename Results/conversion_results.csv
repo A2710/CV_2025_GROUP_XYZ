@@ -1,0 +1,15 @@
+Metric,INT8,FP16,FP32
+Throughput,953.428 qps,805.453 qps,192.886 qps
+Latency_min,1.07642 ms,1.26147 ms,5.0975 ms
+Latency_max,1.18115 ms,1.49829 ms,5.58112 ms
+Latency_mean,1.108 ms,1.30547 ms,5.24372 ms
+Latency_median,1.10718 ms,1.30298 ms,5.24365 ms
+Enqueue_Time_mean,0.641159 ms,0.651877 ms,0.632872 ms
+H2D_Latency_mean,0.0598248 ms,0.0604684 ms,0.064227 ms
+GPU_Compute_Time_min,1.01294 ms,1.19952 ms,5.03 ms
+GPU_Compute_Time_max,1.1084 ms,1.36572 ms,5.51199 ms
+GPU_Compute_Time_mean,1.04176 ms,1.2367 ms,5.17157 ms
+GPU_Compute_Time_median,1.04089 ms,1.23474 ms,5.17114 ms
+D2H_Latency_mean,0.00822914 ms,0.00830257 ms,0.00791986 ms
+Total_Host_Walltime,3.00176 s,3.00328 s,3.01733 s
+Total_GPU_Compute_Time,2.99629 s,2.99157 s,3.00986 s
